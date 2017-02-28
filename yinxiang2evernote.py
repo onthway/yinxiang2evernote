@@ -227,11 +227,11 @@ class EvernoteConnecter(object):
 
 if __name__ == '__main__':
     # authToken = "" # bypass the dev token prompt by populating this variable.
-    authToken_yinxiang = "S=s23:U=5649e5:E=161c104d6a8:C=15a6953a998:P=1cd:A=en-devtoken:V=2:H=6538e8809e56e7cf015abe4f1efffc68"
+    authToken_yinxiang = ""
     Host_yinxiang = "app.yinxiang.com"
 
     # authToken = "" # bypass the dev token prompt by populating this variable.
-    authToken_evernote = "S=s44:U=46985f:E=161c2097db0:C=15a6a585028:P=1cd:A=en-devtoken:V=2:H=47b006db5bad3d2dabb8cdf04b7166e7"
+    authToken_evernote = ""
     Host_evernote = "www.evernote.com"
 
     yx = EvernoteConnecter(authToken_yinxiang, Host_yinxiang)
