@@ -227,6 +227,7 @@ class EvernoteConnecter(object):
 
 if __name__ == '__main__':
     # authToken = "" # bypass the dev token prompt by populating this variable.
+    # 填写你自行申请的 token 地址
     authToken_yinxiang = ""
     Host_yinxiang = "app.yinxiang.com"
 
