@@ -232,6 +232,7 @@ if __name__ == '__main__':
     Host_yinxiang = "app.yinxiang.com"
 
     # authToken = "" # bypass the dev token prompt by populating this variable.
+    # 填写你自行申请的 token 地址
     authToken_evernote = ""
     Host_evernote = "www.evernote.com"
 
